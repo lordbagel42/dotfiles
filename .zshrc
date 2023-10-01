@@ -107,9 +107,6 @@ export EDITOR='nano'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# ndless stuff
-export PATH="/home/bagel/Ndless/ndless-sdk/toolchain/install/bin:/home/bagel/Ndless/ndless-sdk/bin:${PATH}"
-
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
